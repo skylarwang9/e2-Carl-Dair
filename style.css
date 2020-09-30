@@ -1,0 +1,51 @@
+h1{
+	padding: 10px;
+	color: ivory;
+	margin-bottom: 0;
+	margin-top: 0;
+	font-size: 50px;
+	font-family: gillsans,sans-serif;
+	text-align: center;
+}
+h3{
+	color: dimgrey;
+	margin-top: 2px;
+	margin-bottom: 20px;
+	font-size: 15px;
+	font-family:'Open Sans', sans-serif;
+	font-style: italic; 
+	font-weight: 5px;
+	text-align: center;
+}
+h2{
+	color: ivory;
+	margin-top: 5px;
+	font-family:'Open Sans', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	text-transform: uppercase;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-size:15px;
+}
+ul{
+	font-family: 'Open Sans', sans-serif;
+	font-size:15px;
+}
+.subtitle{
+	font-family: gillsans, sans-serif;
+	font-size:18px;
+	margin-bottom: 0;
+}
+#wrap{
+	width: 0 auto;
+	margin:0 auto;
+	padding: 10px;
+	background-color: black;
+}
+#para{
+	width: 0 auto;
+	padding:50px;
+	background-color: lightgrey;
+}
